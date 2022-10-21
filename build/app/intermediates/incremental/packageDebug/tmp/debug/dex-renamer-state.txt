@@ -1,0 +1,4 @@
+#Fri Oct 21 13:00:56 IST 2022
+base.0=/home/pc84/Vikash/Demo_project/updown_scroll_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
